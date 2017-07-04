@@ -8,3 +8,6 @@ the emissivity index (beta) can also be fit.
 Originally written by Jinghua Yuan
 
 Version 0.1  July 4th, 2017
+
+A figure bellow shows an example
+![example](./figDir/G305.5476-0.0559_singleSED.png)
